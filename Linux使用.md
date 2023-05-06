@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="./css/github.css">
+<link rel="stylesheet" type="text/css" href="./github.css">
 # Linux常用命令
 
 [更详细命令参考1](https://www.cnblogs.com/wei-91/p/6592627.html)
